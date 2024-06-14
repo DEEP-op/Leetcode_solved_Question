@@ -22,5 +22,6 @@ public class _58_length_of_last_word{
         String s = ss.nextLine();
         int number = Solution.lengthOfLastWord(s);
         System.out.println(number);
+        ss.close();
     }
 }
