@@ -26,6 +26,7 @@ public class _268_Missing_Number{
         }  
 
         System.out.println(Solution.missingNumber(nums));
+        s.close();
        
     }
 }
