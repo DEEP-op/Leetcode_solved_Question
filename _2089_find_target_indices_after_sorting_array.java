@@ -12,6 +12,7 @@ public class _2089_find_target_indices_after_sorting_array {
     System.out.println("enter the target number :");
     int target = s.nextInt();
     System.out.println(Solution.targetIndices(arr,target));
+    s.close();
 
   }
 }
